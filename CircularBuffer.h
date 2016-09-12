@@ -1,10 +1,10 @@
 //============================================================================
-// Name        : CircularBuffer.h
-// Author      : Trung
-// Version     : 0.01.2016.0910.2243
-// Copyright   :
-// Description : A ring buffer for raw byte data.
-// Note		   : Begin at index 0. Write to head; read from tail.
+// Name        	: CircularBuffer.h
+// Author      	: Trung Nguyen
+// Version     	: 0.01.2016.0910.2243
+// Copyright   	:
+// Description 	: A ring buffer for raw byte data.
+// Note		: Begin at index 0. Write to head; read from tail.
 //
 //============================================================================
 #ifndef CIRCULARBUFFER_H_
